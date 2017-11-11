@@ -1,5 +1,9 @@
 # UBUNTU BUDGIE USER MANUAL
 
+![](https://ubuntubudgie.org/storage/Budgiess/UbuntuBudgie-Wordmark.svg)
+
+![](/assets/background)
+
 ---
 
 Thanks for downloading Ubuntu Budgie! This manual is here to help you install Ubuntu Budgie and explain you how to use it after installation.
