@@ -2,7 +2,7 @@
 
 ![](https://ubuntubudgie.org/storage/Budgiess/UbuntuBudgie-Wordmark.svg)
 
-![](/assets/background)
+![](http://ubuntuhandbook.org/wp-content/uploads/2016/02/budgie-desktop-launcher.jpg)
 
 ---
 
